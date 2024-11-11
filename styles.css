@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+
+#skills{
+	margin:20px 0;
+}
+
+#skills span{
+	padding:10px;
+	background-color: #ddd;
+	font-weight: bolder;
+	border-radius: 10px;
+}
+
+
+#projects ul{
+	list-style: none;
+	margin: 0;
+}
+
+#projects ul li{
+	padding: 5px;
+}
+
+
